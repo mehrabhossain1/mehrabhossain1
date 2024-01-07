@@ -12,7 +12,7 @@ I'm Mehrab Hossain, a passionate Frontend Developer with a love for crafting sea
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
 
 #### 🌐 Portfolio:
-Check out my [portfolio website]([yourportfolio.com](https://jade-gnome-9c58c9.netlify.app/)) to explore some of my projects and see the magic unfold.
+Check out my [[portfolio website](https://jade-gnome-9c58c9.netlify.app/)] to explore some of my projects and see the magic unfold.
 
 #### 🌈 Fun Facts:
 - Apart from coding, you'll find me [hobbies/interests].
