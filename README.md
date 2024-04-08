@@ -3,10 +3,10 @@
 I'm Mehrab Hossain, a passionate Frontend Developer with a love for crafting seamless and delightful user experiences. My journey in the world of web development began last year, and since then, I've been on a mission to blend creativity with technology.
 
 #### 💻 Tech Stack:
-- **Languages:** HTML, CSS, JavaScript, Node.js
+- **Languages:** JavaScript, Node.js
 - **Frameworks/Libraries:** React.js, Next.js, Redux
-- **Tools:** Git, Webpack, Babel
-- **Design:** Figma, 
+- **Tools:** Git
+- **Design:** Figma
 
 #### 🚀 What I Do:
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
