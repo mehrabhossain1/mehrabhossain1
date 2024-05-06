@@ -8,6 +8,8 @@ I'm Mehrab Hossain, a passionate Frontend Developer with a love for crafting sea
 - **Tools:** Git
 - **Design:** Figma
 
+- [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
+
 #### 🚀 What I Do:
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
 
