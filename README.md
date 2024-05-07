@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
+
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
 
