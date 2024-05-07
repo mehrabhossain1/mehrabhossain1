@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"> LinkedIn</a></code>
 </h5>
 
 <p align="center">
