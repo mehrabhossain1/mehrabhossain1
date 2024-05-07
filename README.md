@@ -8,7 +8,7 @@
   <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"> LinkedIn</a></code>
 </h5>
 
-<p align="center" font="32px">
+<p align="center">
   Hi, I'm Mehrab Hossain, MERN Stack Web Application Developer from Bangladesh
   <br>
   💻 I love writing code and learn anythings about it
@@ -26,17 +26,8 @@
 </p>
 
 
-
-
-
 #### 🚀 What I Do:
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
 
-#### 🌐 Portfolio:
-Check out my [[portfolio website]] to explore some of my projects and see the magic unfold.
-
-#### 🌈 Fun Facts:
-- Apart from coding, you'll find me [hobbies/interests].
-- I believe in the power of community and am an active contributor to [relevant open-source projects or tech communities].
 
 Let's connect and build something amazing together! 🚀
