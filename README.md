@@ -10,7 +10,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Mehrab Hossain, MERN Stack Web Application Developer from Bangladesh
+  Hi, I'm ##Mehrab Hossain##, MERN Stack Web Application Developer from Bangladesh
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -27,7 +27,7 @@
 </p>
 
 
-#### 🚀 What I Do:
+## 🚀 What I Do:
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
 
 
