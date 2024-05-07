@@ -18,8 +18,10 @@
   📫 How to reach me: <a href="mailto: mehrab.munna00@gmail.com">mehrab.munna00@gmail.com</a>
 </p>
 
-
+<p align="center">
  [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
+</p>
+
 
 #### 🚀 What I Do:
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
