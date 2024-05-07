@@ -8,6 +8,16 @@
   <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
+<p align="center">
+  Hi, I'm Mehrab Hossain, MERN Stack Web Application Developer from Bangladesh
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Next.js
+  <br>
+  📫 How to reach me: <a href="mailto: mehrab.munna00@gmail.com">mehrab.munna00@gmail.com</a>
+</p>
+
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
 
