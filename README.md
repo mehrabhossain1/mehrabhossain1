@@ -10,11 +10,11 @@
 </h5>
 
 <p align="center">
-  Hi, I'm ## Mehrab Hossain ##, MERN Stack Web Application Developer from Bangladesh
+  Hi, I'm Mehrab Hossain, MERN Stack Web Application Developer from Bangladesh.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Next.js
+  📚 I’m currently learning how to build E-Commerce Website with Next.js.
   <br>
   📫 How to reach me: <a href="mailto: mehrab.munna00@gmail.com">mehrab.munna00@gmail.com</a>
 </p>
