@@ -18,9 +18,15 @@
   📫 How to reach me: <a href="mailto: mehrab.munna00@gmail.com">mehrab.munna00@gmail.com</a>
 </p>
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
 <p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
+  <img width="60%" src="https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats" />
 </p>
+
+
+
 
 
 #### 🚀 What I Do:
