@@ -1,14 +1,11 @@
-### 👋 Hello, there!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehrab+Hossain....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-I'm Mehrab Hossain, a passionate Frontend Developer with a love for crafting seamless and delightful user experiences. My journey in the world of web development began last year, and since then, I've been on a mission to blend creativity with technology.
 
-#### 💻 Tech Stack:
-- **Languages:** JavaScript, Node.js
-- **Frameworks/Libraries:** React.js, Next.js, Redux
-- **Tools:** Git
-- **Design:** Figma
-
-- [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mehrabhossain1&theme=dracula)](https://git.io/streak-stats)
 
 #### 🚀 What I Do:
 I specialize in turning ideas into interactive and responsive web applications. Whether it's creating pixel-perfect UIs or optimizing performance, I thrive on transforming concepts into reality. I'm always up for a challenge, constantly learning and evolving with the ever-changing tech landscape.
