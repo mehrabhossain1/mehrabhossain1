@@ -8,7 +8,7 @@
   <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"> LinkedIn</a></code>
 </h5>
 
-<p align="center">
+<p align="center" font="32px">
   Hi, I'm Mehrab Hossain, MERN Stack Web Application Developer from Bangladesh
   <br>
   💻 I love writing code and learn anythings about it
