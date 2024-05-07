@@ -10,7 +10,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm ##Mehrab Hossain##, MERN Stack Web Application Developer from Bangladesh
+  Hi, I'm ## Mehrab Hossain ##, MERN Stack Web Application Developer from Bangladesh
   <br>
   💻 I love writing code and learn anythings about it
   <br>
