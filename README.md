@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<h1 align="center">
+    <img src="/images/banner.jpeg">
+</h1>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mehrab-hossain-505390274" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"> LinkedIn</a></code>
    <code><a href="https://portfolio-nextjs-two-khaki.vercel.app/" title="Portfolio"><img width="22" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-portfolio-icon-png-image_4171290.jpg"> Portfolio</a></code>
