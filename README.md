@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meharab Hossan Munna</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-# 💫 About Me:
-#### 🔭 I’m currently working on Next.js and Redux.<br> 👯 I’m looking to collaborate on open-source projects related to frontend development, particularly focusing on modern frameworks like React and tools like Redux.<br>🤝 I’m looking for help with gaining practical experience in real-world projects and honing my frontend development skills.<br> 🌱 I’m currently learning advanced state management techniques in Redux and exploring server-side rendering with Next.js.<br>💬 Ask me about frontend development strategies, responsive web design, or my approach to building user-friendly interfaces.<br>⚡ Fun fact I love experimenting with different CSS animations to bring life to user interfaces!
 
 
 # 🌐 Socials:
