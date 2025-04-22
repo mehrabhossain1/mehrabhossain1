@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehrab Hossain</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Health Systems Matter](https://healthsystemsmatter.vercel.app)
 
 - 🌱 I’m currently learning **OpenAI API, AI-Powered Web Apps (Integrating AI in React.js & Next.js)**
 
