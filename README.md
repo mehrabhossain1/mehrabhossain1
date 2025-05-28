@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="meharabhossanmunnalinkedinbanner.png" alt="Meharab Hossan Munna Banner" width="100%" />
+  <img src="images/meharabhossanmunnalinkedinbanner.png" alt="Meharab Hossan Munna Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Meharab Hossan Munna</h1>
