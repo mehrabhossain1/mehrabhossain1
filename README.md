@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="meharabhossanmunnalinkedinbanner.png" alt="Meharab Hossan Munna Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Meharab Hossan Munna</h1>
 <h3 align="center">
   A Frontend Developer 🚀 | Deep Diving into JavaScript & React | Passionate about Modern Frontend from Bangladesh
