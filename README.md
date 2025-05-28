@@ -24,6 +24,9 @@
   <a href="https://linkedin.com/in/mehrabhossain1" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
+<a href="https://wa.me/8801700952084" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
