@@ -12,9 +12,9 @@
 - 🌱 I’m currently learning **OpenAI API, AI-Powered Web Apps (Integrating AI in React.js & Next.js)**
 - 👨‍💻 All of my projects are available at [https://mehrab-hossain.vercel.app](https://mehrab-hossain.vercel.app)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mehrabhossain1)
-- 💬 Ask me about **React.js, Next.js, Framer Motion**
+- 💬 Ask me about **React.js, Next.js, Framer Motion, Redux**
 - 📫 How to reach me: **mehrab.munna00@gmail.com**
-- 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1oo04CQ1h7TbRl-lS3zJqHXEbllzIbFoK/view?usp=sharing)
+- 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1EeOyA0DDiMqZszpgBqiK6Yh4UqFOUUbR/view?usp=sharing)
 - ⚡ Fun fact: I believe I can motivate a depressed person ❤️
 
 ---
