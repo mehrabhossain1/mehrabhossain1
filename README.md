@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://mehrab-hossain.vercel.app](https://mehrab-hossain.vercel.app)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mehrabhossain1)
 - 💬 Ask me about **React.js, Next.js, Tanstack Query, Zustand, Framer Motion, Redux**
-- 📫 How to reach me: **mehrab.munna00@gmail.com**
+- 📫 How to reach me: *mehrab.munna00@gmail.com*
 - 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1I_-H9N4YbHaDlm8GD11mkKXF1ZSqQl0l/view)
 - ⚡ Fun fact: I believe I can motivate a depressed person ❤️
 
