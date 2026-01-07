@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Meharab Hossan Munna</h1>
 <h3 align="center">
-  A Frontend Developer 🚀 | Deep Diving into JavaScript & React | Passionate about Modern Frontend from Bangladesh
+  A Frontend Developer | Deep Diving into JavaScript & React | Passionate about Modern Frontend from Bangladesh
 </h3>
 
 ---
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **OpenAI API, AI-Powered Web Apps (Integrating AI in React.js & Next.js)**
 - 👨‍💻 All of my projects are available at [https://mehrab-hossain.vercel.app](https://mehrab-hossain.vercel.app)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mehrabhossain1)
-- 💬 Ask me about **React.js, Next.js, Framer Motion, Redux**
+- 💬 Ask me about **React.js, Next.js, Tanstack Query, Zustand, Framer Motion, Redux**
 - 📫 How to reach me: **mehrab.munna00@gmail.com**
 - 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1I_-H9N4YbHaDlm8GD11mkKXF1ZSqQl0l/view)
 - ⚡ Fun fact: I believe I can motivate a depressed person ❤️
