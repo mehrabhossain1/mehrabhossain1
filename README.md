@@ -1,114 +1,120 @@
 <p align="center">
-  <img src="images/meharabhossanmunnalinkedinbanner.png" alt="Meharab Hossan Munna Banner" width="100%" />
+  <img src="images/meharabhossanmunnalinkedinbanner.png" alt="Meharab Hossan Munna" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Meharab Hossan Munna</h1>
-<h3 align="center">
-  A Frontend Developer | Deep Diving into JavaScript & React | Passionate about Modern Frontend from Bangladesh
-</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Node.js+%7C+React+%7C+Next.js+%7C+TypeScript)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehrab--hossain.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://mehrab-hossain.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehrabhossain1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrabhossain1)
+[![Gmail](https://img.shields.io/badge/Gmail-mehrab.munna00-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehrab.munna00@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I_-H9N4YbHaDlm8GD11mkKXF1ZSqQl0l/view)
+[![Profile Views](https://komarev.com/ghpvc/?username=mehrabhossain1&style=flat-square&color=58A6FF)](https://github.com/mehrabhossain1)
+
+</div>
 
 ---
 
-- 🌱 I’m currently learning **OpenAI API, AI-Powered Web Apps (Integrating AI in React.js & Next.js)**
-- 👨‍💻 All of my projects are available at [https://mehrab-hossain.vercel.app](https://mehrab-hossain.vercel.app)
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mehrabhossain1)
-- 💬 Ask me about **React.js, Next.js, Tanstack Query, Zustand, Framer Motion, Redux**
-- 📫 How to reach me: mehrab.munna00@gmail.com
-- 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1I_-H9N4YbHaDlm8GD11mkKXF1ZSqQl0l/view)
-- ⚡ Fun fact: I believe I can motivate a depressed person ❤️
+### About Me
+
+Full-Stack Developer from Bangladesh with hands-on experience building production-grade web applications end-to-end — from database design and REST APIs to real-time UIs with WebSocket integration. I focus on writing clean, scalable code and shipping features that solve real problems.
+
+- Currently exploring **AI-powered web apps** — integrating OpenAI API with React & Next.js
+- I write about web development and software engineering on [LinkedIn](https://www.linkedin.com/in/mehrabhossain1)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mehrabhossain1" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-<a href="https://wa.me/8801700952084" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp" width="40" height="40" />
-  </a>
-</p>
+### Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- 
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
+**Frontend**
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-  </a>
- 
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
+**Backend**
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
+**Tools & DevOps**
 
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
- 
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
- 
-  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrabhossain1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehrabhossain1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabhossain1" alt="GitHub Streak" />
-</p>
+**[Smart Inventory & Order Management — Backend](https://github.com/mehrabhossain1/smart-inventory-and-order-management-backend)**
+
+Production-grade REST API for real-time inventory & order management. Features JWT auth with RBAC, order lifecycle state machine, automated restock queue, WebSocket events, dashboard analytics via MongoDB aggregation pipelines, and Swagger docs.
+
+`Node.js` `Express 5` `MongoDB` `Socket.io` `JWT` `Jest` `GitHub Actions`
+
+</td>
+<td width="50%">
+
+**[Smart Inventory & Order Management — Frontend](https://github.com/mehrabhossain1/smart-inventory-and-order-management-frontend)**
+
+Real-time dashboard with interactive analytics, role-based views, live chat with typing indicators, smart order creation with conflict detection, PDF/CSV export, and dark mode.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `Zustand` `Recharts` `Socket.io`
+
+</td>
+</tr>
+</table>
+
+> **[View all projects on my portfolio](https://mehrab-hossain.vercel.app)**
+
+---
+
+### GitHub Stats
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=mehrabhossain1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabhossain1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrabhossain1&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaboration and opportunities. Let's build something great together.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrabhossain1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801700952084)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrab.munna00@gmail.com)
+
+</div>
