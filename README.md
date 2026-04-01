@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="images/meharabhossanmunnalinkedinbanner.png" alt="Meharab Hossan Munna" width="100%" />
-</p>
+</p> -->
 
 <div align="center">
 
@@ -37,6 +37,8 @@ Full-Stack Developer from Bangladesh with hands-on experience building productio
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 **Backend**
 
