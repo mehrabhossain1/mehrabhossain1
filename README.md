@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mehrab--hossain.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://mehrab-hossain.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mehrabhossain1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrabhossain1)
 [![Gmail](https://img.shields.io/badge/Gmail-mehrab.munna00-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehrab.munna00@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I_-H9N4YbHaDlm8GD11mkKXF1ZSqQl0l/view)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uP7oLA8y2eooqJNinuGOKVYJid1XQrQR/view?usp=sharing)
 [![Profile Views](https://komarev.com/ghpvc/?username=mehrabhossain1&style=flat-square&color=58A6FF)](https://github.com/mehrabhossain1)
 
 </div>
