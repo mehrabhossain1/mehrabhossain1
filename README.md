@@ -111,6 +111,8 @@ Real-time dashboard with interactive analytics, role-based views, live chat with
 
 ---
 
+<a href="https://app.daily.dev/mehrabhossain1"><img src="https://api.daily.dev/devcards/v2/eH0qGk9129rGXCZDczcIn.png?type=default&r=ixd" width="356" alt="Mehrab Hossain's Dev Card"/></a>
+
 <div align="center">
 
 **Open to collaboration and opportunities. Let's build something great together.**
